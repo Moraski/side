@@ -1,0 +1,23 @@
+html{
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(1,0,22,1) 56%, rgba(31,0,57,1) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+header{
+    display: flex;
+    justify-content: right;
+}
+nav img{
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+        
+        
+}
+
+#Logo{
+    display: flex;
+    justify-content: center;
+}
